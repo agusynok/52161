@@ -67,6 +67,10 @@ flight_data.json contiene los datos del vuelo en formato JSON
 
 ## 🔧 Instalación
 
+Instalar las dependencias de Node.js:
+
+npm install
+
 1. Cloná este repositorio:
 
 bash
