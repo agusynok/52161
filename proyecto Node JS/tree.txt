@@ -1,0 +1,1 @@
+(prog (stat (vuelo (codigo_vuelo A A 1 2 3) (aeropuerto_salida (aeropuerto J F K)) - (aeropuerto_llegada (aeropuerto L A X)) (hora 1 5 : 3 0) , (estado DELAYED) , Gate: (puerta B 1 2))))

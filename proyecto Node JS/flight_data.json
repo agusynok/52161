@@ -1,0 +1,8 @@
+{
+  "code": "AA123",
+  "from": "JFK",
+  "to": "LAX",
+  "time": "15:30",
+  "status": "DELAYED",
+  "gate": "B12"
+}
