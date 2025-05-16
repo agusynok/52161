@@ -70,7 +70,7 @@ Instalar las dependencias de Node.js:
 
 npm install
 
-🔧 Instalación
+## 🔧 Instalación
 
 
 
