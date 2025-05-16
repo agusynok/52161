@@ -65,11 +65,14 @@ tree.txt contiene el árbol de derivación en texto
 
 flight_data.json contiene los datos del vuelo en formato JSON
 
-## 🔧 Instalación
-
+recuerda 
 Instalar las dependencias de Node.js:
 
 npm install
+
+## 🔧 Instalación
+
+
 
 1. Cloná este repositorio:
 
