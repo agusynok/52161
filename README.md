@@ -70,13 +70,12 @@ Instalar las dependencias de Node.js:
 
 npm install
 
-## 🔧 Instalación
+🔧 Instalación
 
 
 
 1. Cloná este repositorio:
 
-bash
 git clone https://github.com/agusynok/52161.git
 
 
