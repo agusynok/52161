@@ -77,7 +77,3 @@ npm install
 1. Cloná este repositorio:
 
 git clone https://github.com/agusynok/52161.git
-
-
-cd proyecto Node JS
-
