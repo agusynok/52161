@@ -17,6 +17,11 @@ Traduce la info a un objeto JavaScript
 
 Guarda los datos del vuelo en un archivo JSON
 
+mostrando algo como...
+
+![image](https://github.com/user-attachments/assets/40aa3af5-2d26-430f-a5e4-c03c55d9957a)
+
+
 Requisitos previos:
 
 Tener Java (JRE) 1.8 o superior instalado. Es necesario porque ANTLR usa Java. Se puede descargar en https://www.java.com/en/download/
@@ -42,6 +47,8 @@ Instalar la extensión "ANTLR4 grammar syntax support" desde el menú de extensi
 Reiniciar VS Code
 
 Configurar la generación de código de ANTLR en las preferencias (settings.json) con lo siguiente:
+
+
 {"antlr4.generation": {
  "alternativeJar": "antlr-4.13.2-complete.jar",
  "mode": "external",
@@ -50,6 +57,8 @@ Configurar la generación de código de ANTLR en las preferencias (settings.json
  "language": "JavaScript",
  "outputDir": "./generated"
  } 
+
+ 
  Ejecución:
 
 Para ejecutar el analizador:
